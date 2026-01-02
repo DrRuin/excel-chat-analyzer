@@ -8,6 +8,13 @@ I wanted to use `mcp-server-chart` for generating charts with AI agents. It work
 
 So I swapped it out for `streamlit-gpt-vis` which renders everything locally in your browser. Problem solved.
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/cdc411b3-a7a2-479b-a93e-df5d85c1b565
+
+
+
 ## What's Inside
 
 ```
