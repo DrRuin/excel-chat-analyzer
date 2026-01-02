@@ -1,0 +1,12 @@
+streamlit
+streamlit-gpt-vis
+fastapi
+uvicorn[standard]
+langchain
+langchain-openai
+langgraph
+pandas
+openpyxl
+python-dotenv
+httpx
+python-multipart
