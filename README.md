@@ -124,6 +124,8 @@ Just ask naturally - "create a bar chart of sales by region" or "plot the trend 
 **Can I add more tools?**
 - Yep, just add them in `tools.py` and include them in `get_pandas_tools()`. The agent will figure out when to use them.
 
+**Fun Fact**: `mcp-server-chat` uses `GPT-Vis` under the hood.
+
 ## Known Limitations
 
 - Single file at a time (no multi-file joins yet)
