@@ -35,6 +35,8 @@ cd excel-analyzer
 pip install -r requirements.txt
 ```
 
+Note: You also have to install NodeJS -> https://nodejs.org/en/download
+
 2. Add your OpenAI key:
 ```bash
 # Create .env file
